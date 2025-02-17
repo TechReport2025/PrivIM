@@ -10,9 +10,9 @@ $ pip install -r requirements.txt
 
 ## Instructions
 * `baselines/`: Heuristic algorithms for CELF
-* `dataset\`: Training and test graphs
-* `experiments\`: Training and evaluation launchers
-* `model\`: GNN layers
+* `dataset/`: Training and test graphs
+* `experiments/`: Training and evaluation launchers
+* `model/`: GNN layers
 
 ## Training
 ```
